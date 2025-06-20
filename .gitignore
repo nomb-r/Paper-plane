@@ -1,1 +1,5 @@
 *uv.lock
+/server/.venv*
+/client/.venv*
+/server/*uv.lock
+/client/*uv.lock
